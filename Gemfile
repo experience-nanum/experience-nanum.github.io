@@ -2,7 +2,10 @@ source "https://rubygems.org"
 gemspec
 
 group :jekyll_plugins do
-    gem 'jekyll-algolia', '~> 1.0'
-    gem 'jekyll-paginate'
-    gem 'jekyll-sitemap'
-end
+    gem "jekyll-feed"
+    gem "jekyll-seo-tag"
+    gem "jekyll-sitemap"
+    gem "jekyll-paginate"
+    gem "jekyll-include-cache"
+    gem "jekyll-algolia"
+  end

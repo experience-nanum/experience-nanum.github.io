@@ -1,7 +1,8 @@
 ---
 title: "July algorithm1"
 category: 
-    - Algorithm
+    - backjoon
+    - 10828
 tag :
     - stack
 toc: true

@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "/assets/images/bio-photo2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "GM"
+  avatar           : "/assets/images/bio-photo-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Developer"
-  location         : "Somewhere, USA"
-  email            :
+  location         : "South Korea"
+  email            : "https://experience-nanum.github.io/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -115,15 +115,15 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/experience-nanum"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/kimjaedu0413"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    # - label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -131,11 +131,11 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/experience-nanum
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+    # - label: "GitLab"
+      # icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    # - label: "Bitbucket"
+      # icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
